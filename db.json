@@ -1,0 +1,64 @@
+{
+    "srkMovies": [
+        {
+            "id": 1,
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/My_Name_Is_Khan_film_poster.jpg",
+            "title": "My Name Is Khan",
+            "year": 2010
+        },
+        {
+            "id": 2,
+            "img": "https://upload.wikimedia.org/wikipedia/en/5/58/Ra.Oneposter.jpg",
+            "title": "Ra.One",
+            "year": 2011
+        },
+        {
+            "id": 3,
+            "img": "https://upload.wikimedia.org/wikipedia/en/f/f9/Jab_Tak_Hai_Jaan_Poster.jpg",
+            "title": "Jab Tak Hai Jaan",
+            "year": 2012
+        },
+        {
+            "id": 4,
+            "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Chennai_Express.jpg",
+            "title": "Chennai Express",
+            "year": 2013
+        },
+        {
+            "id": 5,
+            "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Happy_New_Year_Poster_%282014_film%29.jpg",
+            "title": "Happy New Year",
+            "year": 2014
+        },
+        {
+            "id": 6,
+            "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYu4HW1lC3T94JfRQcVv7ufa1Ep_WEM5lGF7QxF-5QGCP4pnpd",
+            "title": "Dilwale",
+            "year": 2015
+        },
+        {
+            "id": 7,
+            "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Dear_Zindagi_poster.jpg",
+            "title": "Dear Zindagi",
+            "year": 2016
+        },
+        {
+            "id": 8,
+            "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Raees_film_poster.jpg",
+            "title": "Raees",
+            "year": 2017
+        },
+        {
+            "id": 9,
+            "img": "https://upload.wikimedia.org/wikipedia/en/e/e6/Zero_official_poster.jpg",
+            "title": "Zero",
+            "year": 2018
+        },
+        {
+            "id": 10,
+            "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/The_Zoya_Factor_poster.jpg",
+            "title": "The Zoya Factor",
+            "year": 2019
+        }
+    ]
+}
